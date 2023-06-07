@@ -1,0 +1,7 @@
+{
+  "name": "ionicBenceAnket",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
